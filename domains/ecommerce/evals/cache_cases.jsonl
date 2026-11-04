@@ -1,0 +1,5 @@
+{"role": "customer", "question": "Is the shipping free?"}
+{"role": "customer", "question": "How long do I have to return an item I bought?"}
+{"role": "agent", "question": "When should I escalate refunds?"}
+{"role": "supervisor", "question": "What risk score gets an order held for fraud review?"}
+{"role": "agent", "question": "Is shipping free?", "cross_role": true}
