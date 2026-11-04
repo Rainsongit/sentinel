@@ -1,0 +1,5 @@
+{"role": "employee", "question": "How many PTO days do I accrue each year?"}
+{"role": "employee", "question": "How many days per week can I work remotely?"}
+{"role": "manager", "question": "When are the performance reviews done?"}
+{"role": "hr", "question": "What's the cap on merit increases?"}
+{"role": "manager", "question": "How many PTO days do I accrue per year?", "cross_role": true}
